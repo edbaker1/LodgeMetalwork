@@ -1,0 +1,45 @@
+.navigation-buttons {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(15, 130, 231);
+    color: white;
+    border: 20px;
+    margin-right: 1px;
+    margin-top: 40px;
+    text-decoration: none;
+    border: none;
+    padding-top: 25px;
+    padding: 25px 100px;
+}
+
+.navigation-buttons:hover {
+    background-color: rgb(9, 104, 187);
+}
+
+.navigation-buttons:active{
+    opacity: 0.4;
+}
+.nav-ribbon{
+    background-color: rgb(15, 130, 231);
+    height: 75px;
+}
+.homepage-titles{
+padding-top: 100px;
+font-size: 50px;
+margin: 0;
+text-align: center;
+}
+.homepage-maintext{
+padding-top: 20px;
+font-size: 30px;
+margin: 0;
+text-align: center;
+}
+.title{
+    font-size: 100px;
+    font-weight: bold;
+}
+.images{
+    height: 100px;
+    width: 100px;
+}
